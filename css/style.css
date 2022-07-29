@@ -1,5 +1,16 @@
-.opacity-50 {
-    color: bisque;
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-get {
+    background-color: rgba(12, 111, 249, 0.753);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    width: 50%;
+    height: 10%;
+    cursor: pointer;
 }
 
 #courses img {
